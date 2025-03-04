@@ -39,6 +39,24 @@ or use
 - **Boxicons** for icons
 
 
+Usage
+
+Enter text or a URL in the input field.
+
+Select customization options:
+
+Size: 100px - 500px
+
+Foreground Color: Choose any color for the QR code.
+
+Background Color: Set the background color.
+
+Error Correction Level: L, M, Q, H (Higher levels make the QR code more resilient to errors but increase size).
+
+Click the "Generate QR Code" button.
+
+Download or share the QR code as needed.
+
 ## Screenshots
 
 ![QR Code Generator Form](index.png)
