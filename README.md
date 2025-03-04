@@ -38,6 +38,20 @@ or use
 - **Bootstrap** for UI styling
 - **Boxicons** for icons
 
+
+## Screenshots
+
+![QR Code Generator Form](index.png)
+
+![Generated QR Code](code.png)
+
+## Contributing
+
+Feel free to contribute to this project by submitting pull requests or opening issues.
+
+## License
+
+This project is licensed under the [License Name] License.
 ## Future Enhancements
 - Convert to a Laravel-based project.
 - Add more customization options (color, size, error correction levels).
