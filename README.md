@@ -51,7 +51,7 @@ Feel free to contribute to this project by submitting pull requests or opening i
 
 ## License
 
-This project is licensed under the [License Name] License.
+This project is licensed under the MIT License.
 ## Future Enhancements
 - Convert to a Laravel-based project.
 - Add more customization options (color, size, error correction levels).
